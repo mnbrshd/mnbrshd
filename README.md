@@ -9,7 +9,7 @@ I’m an AI Engineer and Researcher with a focus on building practical, scalable
 - Model deployment using Docker, FastAPI, and Streamlit  
 - Using vector stores (like Milvus) for scalable AI memory  
 
-## Featured Work
+## Professional Work
 - **Smear Slide Analysis** using traditional CV + deep learning  
 - **End-to-End RAG Pipelines** with Ollama, Milvus, LangChain  
 - **Transcription Engines** using Whisper + faster-whisper for large audio datasets  
