@@ -2,34 +2,39 @@
 
 I’m an AI Engineer and Researcher with a focus on building practical, scalable, and intelligent systems across domains. My work blends deep learning, computer vision, and NLP with an emphasis on real-world application and deployment.
 
-## 🔍 Current Focus
-- 🧠 Applied Machine Learning and Model Optimization  
-- 🧩 Multimodal AI (Vision × Language)  
-- 🛠️ LLMOps & RAG systems (Retrieval-Augmented Generation)  
-- ⚙️ Model deployment using Docker, FastAPI, and Streamlit  
-- 📦 Using vector stores (like Milvus) for scalable AI memory  
+## Current Focus
+- Applied Machine Learning and Model Optimization  
+- Multimodal AI (Vision × Language)  
+- LLMOps & RAG systems (Retrieval-Augmented Generation)  
+- Model deployment using Docker, FastAPI, and Streamlit  
+- Using vector stores (like Milvus) for scalable AI memory  
 
-## 🚀 Featured Work
+## Featured Work
 - **Smear Slide Analysis** using traditional CV + deep learning  
 - **End-to-End RAG Pipelines** with Ollama, Milvus, LangChain  
 - **Transcription Engines** using Whisper + faster-whisper for large audio datasets  
 - **CLI + UI Tools** for batch inference and visualization of AI predictions  
 - **PDF + Image Document Processing** using PaddleOCR and OpenCV
 
-## 🧰 Tech Stack
-- **Languages**: Python, Bash  
-- **Frameworks**: PyTorch, HuggingFace Transformers, LangChain  
+## Personal Projects
+-  [Travel Advisor - A React.js app that uses Firebase to show nearby attractions, hotels, and restaurants based on the user's location.](https://travel-advisor-jsmuneeb.netlify.app)
+-  [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
+   
+
+## Tech Stack
+- **Languages**: Python, Bash, JavaScript 
+- **Frameworks**: PyTorch, HuggingFace Transformers, LangChain, React
 - **Tooling**: Docker, Milvus, Streamlit, FastAPI, Git, OpenCV  
 - **Models**: Whisper, LLaVA, Stable Diffusion, Ollama models  
-- **Infra**: NVIDIA GPUs, local + containerized deployments  
+- **Infra**: NVIDIA GPUs, local + containerized deployments 
 
-## 🎯 Interests
+## Interests
 - Scalable AI pipelines  
 - Real-time inference + edge AI  
 - Explainable + trustworthy AI  
 - Generative models for text, audio, and image synthesis  
 
-## 🎯 Publications
+## Publications
 - [Stain Normalization of Hematology Slides using Neural Color Transfer](https://arxiv.org/abs/2409.06742)
 ---
 
