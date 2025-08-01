@@ -1,40 +1,37 @@
-# Muhammad Muneeb Arshad — Machine Learning Engineer & Computer Vision Specialist
+# 👋 Hi, I'm Muhammad Muneeb Arshad
 
-**Empowering medical imaging and AI‑driven diagnostics at scale**  
-Toronto-based ML Engineer combining cutting‑edge CV, MLOps, and regulated‑domain AI.
+I’m an AI Engineer and Researcher with a focus on building practical, scalable, and intelligent systems across domains. My work blends deep learning, computer vision, and NLP with an emphasis on real-world application and deployment.
 
----
+## 🔍 Current Focus
+- 🧠 Applied Machine Learning and Model Optimization  
+- 🧩 Multimodal AI (Vision × Language)  
+- 🛠️ LLMOps & RAG systems (Retrieval-Augmented Generation)  
+- ⚙️ Model deployment using Docker, FastAPI, and Streamlit  
+- 📦 Using vector stores (like Milvus) for scalable AI memory  
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
+- **Smear Slide Analysis** using traditional CV + deep learning  
+- **End-to-End RAG Pipelines** with Ollama, Milvus, LangChain  
+- **Transcription Engines** using Whisper + faster-whisper for large audio datasets  
+- **CLI + UI Tools** for batch inference and visualization of AI predictions  
+- **PDF + Image Document Processing** using PaddleOCR and OpenCV
 
-| Project | Domain | Highlights |
-|--------|--------|------------|
-| **Automated Cell Segmentation & Inference API** | Medical Pathology | Detection + segmentation pipeline → Docker + FastAPI + CI/CD |
-| **Annotation Automation Dashboard** | Data Ops | Auto pre-label CVAT, throughput + quality dashboards, DVC versioning |
-| **RAG‑based Regulatory Chatbot** | Clinical Document Retrieval | PDF ingestion → embeddings → chatbot interface with monitoring |
-| **Object Tracking + DeepSORT** | Video CV | YOLOv5 + DeepSORT for video object tracking, live demo |
-| **End‑to‑end MLOps Pipeline** | MLOps | GitHub Actions automation, containerization, deployment & monitoring |
+## 🧰 Tech Stack
+- **Languages**: Python, Bash  
+- **Frameworks**: PyTorch, HuggingFace Transformers, LangChain  
+- **Tooling**: Docker, Milvus, Streamlit, FastAPI, Git, OpenCV  
+- **Models**: Whisper, LLaVA, Stable Diffusion, Ollama models  
+- **Infra**: NVIDIA GPUs, local + containerized deployments  
 
----
-
-## 🛠 Skills & Expertise
-
-- **Computer Vision:** YOLOv5, U‑Net, TransUNet, instance/object segmentation  
-- **Machine Learning:** RAG pipelines, embedding search, transformer fine‑tuning  
-- **MLOps:** CI/CD (GitHub Actions), Docker, Kubernetes, MLflow, Grafana/Prometheus  
-- **Data Pipelines:** ETL, DVC, dataset versioning
-- **Tools & Frameworks:** PyTorch, TensorFlow, scikit‑learn, OpenCV, CVAT, FastAPI  
-
----
-
-## 💡 About Me
-
-I bring 5+ years of experience building scalable AI solutions in clinical and regulated domains such as tissue diagnostics, pathology imaging, and compliance automation. I specialize in transforming manual workflows into automated, tested, and deployable systems that deliver measurable impact.
+## 🎯 Interests
+- Scalable AI pipelines  
+- Real-time inference + edge AI  
+- Explainable + trustworthy AI  
+- Generative models for text, audio, and image synthesis  
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/muneeb-arshad-370233196
-- Email: mnbrshd@gmail.com
+🧪 Always experimenting.  
+🛠️ Always building.  
+📬 Open to collaborations on practical AI projects.
 
