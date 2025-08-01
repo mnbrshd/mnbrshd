@@ -29,6 +29,8 @@ I’m an AI Engineer and Researcher with a focus on building practical, scalable
 - Explainable + trustworthy AI  
 - Generative models for text, audio, and image synthesis  
 
+## 🎯 Publications
+- [Stain Normalization of Hematology Slides using Neural Color Transfer](https://arxiv.org/abs/2409.06742)
 ---
 
 🧪 Always experimenting.  
