@@ -35,6 +35,6 @@ I bring 5+ years of experience building scalable AI solutions in clinical and re
 
 ## 📫 Contact
 
-- LinkedIn: [[your‑profile]  ](https://www.linkedin.com/in/muneeb-arshad-370233196)
+- LinkedIn: https://www.linkedin.com/in/muneeb-arshad-370233196
 - Email: mnbrshd@gmail.com
 
