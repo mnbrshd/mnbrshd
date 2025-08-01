@@ -19,7 +19,7 @@ I’m an AI Engineer and Researcher with a focus on building practical, scalable
 ## Personal Projects
 -  [Travel Advisor - A React.js app that uses Firebase to show nearby attractions, hotels, and restaurants based on the user's location.](https://travel-advisor-jsmuneeb.netlify.app)
 -  [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
--  [AI Interview Coach - A Gemini based LLM interview coach that analyzes your resume and the targeted job description to show your strengths and weaknesses against the job and helps you prepare with mock interviews](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
+-  [AI Interview Coach - An AI-powered tool built on Gemini that analyzes your resume and job description to highlight strengths, identify gaps, and prepare you with personalized mock interviews.](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
    
 
 ## Tech Stack
