@@ -26,7 +26,7 @@ I’m an AI Engineer and Researcher with a focus on building practical, scalable
 - **Languages**: Python, Bash, JavaScript 
 - **Frameworks**: PyTorch, HuggingFace Transformers, LangChain, React
 - **Tooling**: Docker, Milvus, Streamlit, FastAPI, Git, OpenCV  
-- **Models**: Whisper, LLaVA, Stable Diffusion, Ollama models  
+- **Models**: Whisper, LLaVA, Stable Diffusion, Ollama models, YOLO 
 - **Infra**: NVIDIA GPUs, local + containerized deployments 
 
 ## Interests
