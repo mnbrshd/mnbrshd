@@ -4,7 +4,7 @@ I’m an AI Engineer and Researcher with a focus on building practical, scalable
 
 ## Current Focus
 - Applied Machine Learning and Model Optimization  
-- Multimodal AI (Vision × Language)  
+- Computer Vision (classical and deep learning–based approaches)
 - LLMOps & RAG systems (Retrieval-Augmented Generation)  
 - Model deployment using Docker, FastAPI, and Streamlit  
 - Using vector stores (like Milvus) for scalable AI memory  
@@ -20,6 +20,7 @@ I’m an AI Engineer and Researcher with a focus on building practical, scalable
 -  [Travel Advisor - A React.js app that uses Firebase to show nearby attractions, hotels, and restaurants based on the user's location.](https://travel-advisor-jsmuneeb.netlify.app)
 -  [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
 -  [AI Interview Coach - An AI-powered tool built on Gemini that analyzes your resume and job description to highlight strengths, identify gaps, and prepare you with personalized mock interviews.](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
+-  [Pose Estimation - A pose estimation module to estimate poses in a video stream using OpenCV and Mediapipe.] (https://github.com/mnbrshd/PoseEstimation)
    
 
 ## Tech Stack
