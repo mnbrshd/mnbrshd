@@ -7,14 +7,6 @@ mnbrshd/mnbrshd is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Current Focus
-
-- Applied Machine Learning and Model Optimization
-- Multimodal AI (Vision × Language)
-- LLMOps & RAG systems (Retrieval-Augmented Generation)
-- Model deployment using Docker, FastAPI, and Streamlit
-- Using vector stores (like Milvus) for scalable AI memory
-
 ## Personal Projects
 
 - [Travel Advisor - A React.js app that uses Firebase to show nearby attractions, hotels, and restaurants based on the user's location.](https://travel-advisor-jsmuneeb.netlify.app)
