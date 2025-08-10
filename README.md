@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muneeb Arshad, I am an Machine Learning and Computer Vision Engineer.
-- 👀 I’m interested in Deep Learning, Computer Vision, Accurate Physics Simulation, and Control Systems.
-- 🌱 I’m currently learning Robotics Simulation and MLOps.
+- 👀 I’m interested in Deep Learning, Computer Vision, Backend, and Systems Design.
+- 🌱 I’m currently learning Systems Design and MLOps.
 
 <!---
 mnbrshd/mnbrshd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
