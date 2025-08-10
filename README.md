@@ -7,6 +7,19 @@ mnbrshd/mnbrshd is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+## Current Focus
+
+- Applied Machine Learning and Model Optimization
+- Multimodal AI (Vision × Language)
+- LLMOps & RAG systems (Retrieval-Augmented Generation)
+- Model deployment using Docker, FastAPI, and Streamlit
+- Using vector stores (like Milvus) for scalable AI memory
+
+## Personal Projects
+
+- [Travel Advisor - A React.js app that uses Firebase to show nearby attractions, hotels, and restaurants based on the user's location.](https://travel-advisor-jsmuneeb.netlify.app)
+- [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
+- [AI Interview Coach - An AI-powered tool built on Gemini that analyzes your resume and job description to highlight strengths, identify gaps, and prepare you with personalized mock interviews.](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -34,8 +47,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>
 <a href="https://www.linode.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/linode-1-logo-png-transparent.png" alt="Linode" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg" alt="DirectX11" width="40" height="40"/> </a>
-
-# My Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnbrshd&theme=dark"/></p>
 
