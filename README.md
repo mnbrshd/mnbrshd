@@ -1,6 +1,6 @@
-- Hi, I’m Muneeb Arshad, I am an Machine Learning and Computer Vision Engineer.
-- I’m interested in Deep Learning, Computer Vision, Backend, and Systems Design.
-- I’m currently learning Systems Design and MLOps.
+- Hi, I’m Muneeb Arshad, a Python Backend Engineer.
+- I’m interested in Backend Development, Systems Design, Databases, and Scalable Architectures.
+- I’m currently learning Cloud Infrastructure, Distributed Systems, and DevOps.
 
 <!---
 mnbrshd/mnbrshd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
