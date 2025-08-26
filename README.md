@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django Logo" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.worldvectorlogo.com/logo/fastapi-1.svg" alt="FastAPI Logo" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" target="_blank" rel="noreferrer"> <img src="https://www.worldvectorlogo.com/logo/fastapi-1.svg" alt="FastAPI Logo" width="40" height="40"/> </a> 
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/995CrNq.png" alt="Anaconda" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="SciKit-Learn" width="40" height="40"/> </a>
