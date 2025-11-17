@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Personal Projects
 
-- [Business Idea Generator - A Next.js app deployed on Vercel that uses GPT-5-Nano to generate a business idea](https://saas-r92rd1tm3-mnbrshd-1145s-projects.vercel.app/)
+- [MediNotes Pro - AI-powered assistant that generates professional summaries, action items, and patient communications from your consultation notes](https://vercel.com/mnbrshd-1145s-projects/saas/7FUpBR2Bsq3ZYE9fbSDPwGsnH9vp)
 - [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
 - [AI Interview Coach - An AI-powered tool built on Gemini that analyzes your resume and job description to highlight strengths, identify gaps, and prepare you with personalized mock interviews.](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
 
