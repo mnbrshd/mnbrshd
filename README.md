@@ -1,6 +1,5 @@
 - Hi, I’m Muneeb Arshad, a Python AI and Backend Engineer.
-- I’m interested in AI Agents, Backend Development, Systems Design, Databases, and Scalable Architectures.
-- I’m currently learning Cloud Infrastructure, Distributed Systems, and DevOps.
+- I’m interested in AI Agents, Backend Development, Systems Design, Databases, DevOps and Scalable Architectures.
 
 <!---
 mnbrshd/mnbrshd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
