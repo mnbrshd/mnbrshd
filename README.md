@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 
-[![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnbrshd)](https://github.com/anuraghazra/github-readme-stats)
+[![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnbrshd)]
 
 
