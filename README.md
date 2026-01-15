@@ -37,6 +37,10 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 
-[![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnbrshd)]()
+<!-- Statistics: Commit series -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_commits.svg">
+</picture>
 
 
