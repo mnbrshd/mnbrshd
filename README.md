@@ -36,5 +36,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>
 
 # My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mnbrshd)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mnbrshd&theme=dark)](https://git.io/streak-stats)
 
