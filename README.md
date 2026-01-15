@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mnbrshd&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mnbrshd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
