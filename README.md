@@ -37,8 +37,3 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mnbrshd)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnbrshd&theme=dark"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnbrshd&show_icons=true&locale=en&theme=dark&background=000000" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnbrshd&theme=dark&background=000000"/></p>
