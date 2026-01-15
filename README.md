@@ -37,6 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 # My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mnbrshd&theme=dark&hide_border=true&v=1)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnbrshd)](https://github.com/anuraghazra/github-readme-stats)
 
 
