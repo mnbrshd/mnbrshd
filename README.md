@@ -43,4 +43,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_commits.svg">
 </picture>
 
+<!-- Statistics: Programming languages -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_langs.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_langs.svg">
+</picture>
 
+<!-- Statistics: General statistics -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_general.svg">
+</picture>
+
+<!-- Statistics: Unique repository visitors -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_visitors.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/mnbrshd/github_stats/main/output/stats_visitors.svg">
+</picture>
