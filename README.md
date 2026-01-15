@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Personal Projects
 
-- [MediNotes Pro - AI-powered assistant that generates professional summaries, action items, and patient communications from your consultation notes](https://vercel.com/mnbrshd-1145s-projects/saas/7FUpBR2Bsq3ZYE9fbSDPwGsnH9vp)
+- [MediNotes Pro - AI-powered assistant that generates professional summaries, action items, and patient communications from your consultation notes](https://medinotespro.vercel.app/)
 - [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
 - [AI Interview Coach - An AI-powered tool built on Gemini that analyzes your resume and job description to highlight strengths, identify gaps, and prepare you with personalized mock interviews.](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
 
@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> </a>
 
 # My Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mnbrshd)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnbrshd&theme=dark"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnbrshd&show_icons=true&locale=en&theme=dark&background=000000" /></p>
