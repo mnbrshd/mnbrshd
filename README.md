@@ -8,10 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Personal Projects
 
-- [AI Digital Twin - My AI-powered digital twin that answers questions about my background, work and achievements](https://d31t3of9e3y978.cloudfront.net/)
-- [MediNotes Pro - AI-powered assistant that generates professional summaries, action items, and patient communications from your consultation notes](https://medinotespro.vercel.app/)
-- [Realm Rush - A Unity grid-based strategy game where players place crossbows to stop pathfinding enemies, manage currency, and survive escalating difficulty.](https://sharemygame.com/@Deathsmoke94/muneeb-s-realm-rush)
-- [AI Interview Coach - An AI-powered tool built on Gemini that analyzes your resume and job description to highlight strengths, identify gaps, and prepare you with personalized mock interviews.](https://ai-interview-coach-xx7qn6wlcihbou9fkkpnzt.streamlit.app)
+- [AI Digital Twin](https://d31t3of9e3y978.cloudfront.net/) - An interactive web app that acts as a personal digital twin, built with Next.js and deployed server‑side on AWS Lambda. User questions about your background, work and achievements are processed through a retrieval pipeline: relevant information is stored in Amazon S3, fetched as needed and sent to Amazon Bedrock’s Nova Micro model, a low‑latency, text‑only foundation model. Responses are rendered back through a dynamic UI, and the entire stack is provisioned with Terraform and delivered globally via CloudFront. This project demonstrates serverless architecture, memory management and LLM integration.
+- [MediNotes Pro](https://medinotespro.vercel.app/) - A HIPAA‑compliant assistant that turns physicians’ consultation notes into polished medical summaries, clear next‑step lists and patient‑friendly emails. Built with Next.js and hosted on Vercel, it uses Google’s Gemini to analyse and summarise free‑form text (Gemini is designed to work across documents and emails to synthesise information). The app orchestrates calls to multiple language models via the OpenAI Agents SDK, which by default connects to OpenAI’s APIs and can be extended to other models, and it uses Clerk for user authentication and management—Clerk provides full‑stack authentication and user management so developers can focus on building the product. This combination delivers secure, user‑aware interactions while leveraging state‑of‑the‑art generative AI to save clinicians time on documentation.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
